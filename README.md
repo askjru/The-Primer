@@ -1,2 +1,2 @@
 # The-Primer
-Inspired by YC's requests for startups, a tutoring AI that provides one to one tutoring for students. Future improvements aim at creating an ai that learn a child's mind, teach children how to think, and provide them with wisdoms. 
+Inspired by YC's requests for startups, a personalized AI that listens to the users about their troubles, their questions about the world and life, their worries about how to success, and guide them with instructions and questions just like how a personalized teacher would. 
